@@ -1,2 +1,3 @@
 # Pescaria
-Pescaria feita em matrizes 100% autoral e comentada, código livre e bem simples, apenas para treino!
+Ferramentas utilizadas: Python no VsCode, apenas no prompt
+Conclusão: 100% (Falta apenas o Front-End)
